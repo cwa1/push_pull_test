@@ -9,3 +9,7 @@
 # From Command lnie
 
 プッシュのテストを行います。
+
+# From GitHub
+
+プルのテストを行います！
