@@ -5,3 +5,7 @@
 # From GitHub
 
 プルのテストを行います！
+
+# From Command lnie
+
+プッシュのテストを行います。
